@@ -1,0 +1,26 @@
+body {
+  background-color: #16161d;
+}
+
+.form-center {
+  justify-content: center;
+}
+
+.font-colour {
+  color: whitesmoke;
+}
+
+@media only screen and (min-width: 720px) {
+  .img-responsive {
+    max-width: 800px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .item-c {
+    height: 500px;
+  }
+  .item-i {
+    height: 100%;
+  }
+}
